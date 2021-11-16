@@ -1,6 +1,4 @@
-# Atlas_Capitol
-## This is the workings of my first major DATA Science ML project
-### Concepted By: Noah Moore
+# Concepted By: Noah Moore
 # Question: Is there a correlation between price fluctuations and momentum based indicators?
 
 Researchers:
