@@ -1,8 +1,5 @@
 # Concepted By: Noah Moore
-# Question: Is there a correlation between price fluctuations and momentum based indicators?
-
-Researchers:
-Noah Moore
+## Question: Is there a correlation between price fluctuations and momentum based indicators?
 
 ## Project Sponsors:
 ### Atlas Capital
