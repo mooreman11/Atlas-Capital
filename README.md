@@ -19,9 +19,9 @@ Data Sampling
 Obtain data samples via quantconnect API add to dictionary and use Pandas to format into DataFrames
 Training Data:
 Data{
-“PriceChange”: []
-“Bollinger Band”:[]
-“MACD”:[]
+  “PriceChange”: []
+  “Bollinger Band”:[]
+  “MACD”:[]
 }
 Use PriceChange to test if bullish or bearish
 Real Data (model will be filled with live data):
